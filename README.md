@@ -1,8 +1,8 @@
 # Blind Chess
 
-Chess you play entirely by sound and keyboard. Made by Carter (2three1y).
+Chess you play entirely by sound and keyboard. I made it. Carter (2three1y).
 
-Play it: https://2three1y.github.io/blind-chess/
+Play it: https://2three1y.github.io/blindchess/
 
 ## What it does
 - Every move is spoken in plain words, like "White knight from g1 to f3. Check."
